@@ -1,8 +1,6 @@
 {
   "name": "emlakmoto",
-  "private": true,
-  "version": "0.0.1",
-  "type": "module",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,8 +11,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "typescript": "^5.0.2",
     "vite": "^4.0.0",
-    "typescript": "^5.0.0",
     "@vitejs/plugin-react": "^4.0.0"
   }
 }
